@@ -89,7 +89,7 @@ class Ohio:
 
         if FLAG_EXPORT_LOCAL:
             print("writing to local file...")
-            with open(os.path.join("data", "ohio_w_geoloc_backup.json"), 'w') as fout:
+            with open(os.path.join("data", "ohio.json"), 'w') as fout:
                 json.dump(records, fout)
             print("local export done")
 
