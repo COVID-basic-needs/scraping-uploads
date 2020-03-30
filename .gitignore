@@ -228,3 +228,5 @@ pip-selfcheck.json
 # custom
 *.~lock.*
 scripts/
+node_modules
+package-lock.json

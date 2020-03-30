@@ -13,11 +13,13 @@
   },
   "homepage": "https://github.com/ShelterTechSF/VACS-MVP#readme",
   "dependencies": {
-    "@google-cloud/firestore": "^3.7.0",
+    "@tmcw/togeojson": "^3.2.0",
     "algoliasearch": "^4.1.0",
     "axios": "^0.19.2",
     "body-parser": "^1.18.3",
     "dotenv": "^8.2.0",
-    "got": "^10.6.0"
+    "got": "^10.6.0",
+    "kmljs": "0.0.1",
+    "xml2js": "^0.4.23"
   }
 }

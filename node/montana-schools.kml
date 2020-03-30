@@ -1,0 +1,2271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Montana School Meal Locations</name>
+    <description><![CDATA[A map of pickup & delivery locations for school meals during the 2020 coronavirus school closure in the Treasure State.]]></description>
+    <Style id="icon-1722-F57C00-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1722-F57C00-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1722-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1722-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1722-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Montana Meal Distribution Site During COVID-19 Closure (Responses) - Sheet4 (2).csv</name>
+      <Placemark>
+        <name>Richey Public Schools</name>
+        <address>205 Royal Ave. Richey MT 59259</address>
+        <description><![CDATA[Site: Delivery<br>Address: 205 Royal Ave. Richey MT 59259<br>Contact: Kim Benes<br>Phone: 4069795967<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: Monday March 23-Thursday March 27<br>Times: Deliveries<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1722-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Delivery</value>
+          </Data>
+          <Data name="Address">
+            <value>205 Royal Ave. Richey MT 59259</value>
+          </Data>
+          <Data name="Contact">
+            <value>Kim Benes</value>
+          </Data>
+          <Data name="Phone">
+            <value>4069795967</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday March 23-Thursday March 27</value>
+          </Data>
+          <Data name="Times">
+            <value>Deliveries</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Lambert School District</name>
+        <address>121 3rd ave NW, Lambert, MT</address>
+        <description><![CDATA[Site: Delivery<br>Address: 121 3rd ave NW, Lambert, MT<br>Contact: Leanne Evenson<br>Phone: 7014263421<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: Tuesday March 17th-Friday March 27th<br>Times: 9 am and 12pm<br>Special Instructions: Parent or student must contact me the day before]]></description>
+        <styleUrl>#icon-1722-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Delivery</value>
+          </Data>
+          <Data name="Address">
+            <value>121 3rd ave NW, Lambert, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Leanne Evenson</value>
+          </Data>
+          <Data name="Phone">
+            <value>7014263421</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Tuesday March 17th-Friday March 27th</value>
+          </Data>
+          <Data name="Times">
+            <value>9 am and 12pm</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Parent or student must contact me the day before</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Fortine School</name>
+        <address>458 Meadow Creek Rd. Fortine montana</address>
+        <description><![CDATA[Site: Fortine School<br>Address: 458 Meadow Creek Rd. Fortine montana<br>Contact: Virginia Cope<br>Phone: 4062911159<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: Moday through Friday weekly<br>Times: 9:00 AM - 11:00AM<br>Special Instructions: This is an open site providing meals to anyone under the age of 18]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Fortine School</value>
+          </Data>
+          <Data name="Address">
+            <value>458 Meadow Creek Rd. Fortine montana</value>
+          </Data>
+          <Data name="Contact">
+            <value>Virginia Cope</value>
+          </Data>
+          <Data name="Phone">
+            <value>4062911159</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Moday through Friday weekly</value>
+          </Data>
+          <Data name="Times">
+            <value>9:00 AM - 11:00AM</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>This is an open site providing meals to anyone under the age of 18</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Saco School Dist 12A and B</name>
+        <address>321 HWY 243 Saco, MT</address>
+        <description><![CDATA[Site: Saco School<br>Address: 321 HWY 243 Saco, MT<br>Contact: Tanya Funk<br>Phone: 4065273531<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Mon thru Thurs.<br>Times: 9:00A.M.<br>Special Instructions: no already done]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Saco School</value>
+          </Data>
+          <Data name="Address">
+            <value>321 HWY 243 Saco, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Tanya Funk</value>
+          </Data>
+          <Data name="Phone">
+            <value>4065273531</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Mon thru Thurs.</value>
+          </Data>
+          <Data name="Times">
+            <value>9:00A.M.</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>no already done</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Fairview School District</name>
+        <address>713 Western Ave Fairview, MT 59221</address>
+        <description><![CDATA[Site: Fairview School Cafeteria <br>Address: 713 Western Ave Fairview, MT 59221<br>Contact: Jessica Nay<br>Phone: 406-742-5200<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: Monday March 23-Thursday March 26<br>Times: 11 am to Noon <br>Special Instructions: Delivery day is Thursday March 26th only.  Pickup at cafeteria doors Mon-Thurs ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Fairview School Cafeteria </value>
+          </Data>
+          <Data name="Address">
+            <value>713 Western Ave Fairview, MT 59221</value>
+          </Data>
+          <Data name="Contact">
+            <value>Jessica Nay</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-742-5200</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday March 23-Thursday March 26</value>
+          </Data>
+          <Data name="Times">
+            <value>11 am to Noon </value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Delivery day is Thursday March 26th only.  Pickup at cafeteria doors Mon-Thurs </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Belgrade School District</name>
+        <address>303 N Hoffman, Belgrade, MT, 59714</address>
+        <description><![CDATA[Site: High School<br>Address: 303 N Hoffman, Belgrade, MT, 59714<br>Contact: Brittany Moats<br>Phone: 4069512624<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: Monday, March 23-Friday, March 27<br>Times: 11 AM - 1 PM<br>Special Instructions: student must be present, pickup in parking lots]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>High School</value>
+          </Data>
+          <Data name="Address">
+            <value>303 N Hoffman, Belgrade, MT, 59714</value>
+          </Data>
+          <Data name="Contact">
+            <value>Brittany Moats</value>
+          </Data>
+          <Data name="Phone">
+            <value>4069512624</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday, March 23-Friday, March 27</value>
+          </Data>
+          <Data name="Times">
+            <value>11 AM - 1 PM</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>student must be present, pickup in parking lots</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Dixon school District    9</name>
+        <address>411 B Street Dixon, Mt. 59831</address>
+        <description><![CDATA[Site: Delivery<br>Address: 411 B Street Dixon, Mt. 59831<br>Contact: Crista Anderson<br>Phone: 406 246 3566<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: tuesday march 17-friday, mon. march 23-friday march 27<br>Times: delivered 11:30<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1722-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Delivery</value>
+          </Data>
+          <Data name="Address">
+            <value>411 B Street Dixon, Mt. 59831</value>
+          </Data>
+          <Data name="Contact">
+            <value>Crista Anderson</value>
+          </Data>
+          <Data name="Phone">
+            <value>406 246 3566</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>tuesday march 17-friday, mon. march 23-friday march 27</value>
+          </Data>
+          <Data name="Times">
+            <value>delivered 11:30</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Deer Lodge Elementary School District 1</name>
+        <address>444 Montana Ave Deer Lodge, MT</address>
+        <description><![CDATA[Site: Granville Stuart<br>Address: 444 Montana Ave Deer Lodge, MT<br>Contact: Shelli Boggess<br>Phone:  406   846 1553 ext 210     or 406 491 3419<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Tuesday 3/17 - Friday March 28<br>Times: 12:00 - 12:30 <br>Special Instructions: Students must pick up the meals, Please reserve your meals on the districts web site, only pick up meals at this time, however may implement delivery at a later time.  <br>]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Granville Stuart</value>
+          </Data>
+          <Data name="Address">
+            <value>444 Montana Ave Deer Lodge, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Shelli Boggess</value>
+          </Data>
+          <Data name="Phone">
+            <value> 406   846 1553 ext 210     or 406 491 3419</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Tuesday 3/17 - Friday March 28</value>
+          </Data>
+          <Data name="Times">
+            <value>12:00 - 12:30 </value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Students must pick up the meals, Please reserve your meals on the districts web site, only pick up meals at this time, however may implement delivery at a later time.  
+</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Conrad Public Schools</name>
+        <address>17 3rd Ave Sw, Conrad, MT 59425</address>
+        <description><![CDATA[Site: Meadowlark School<br>Address: 17 3rd Ave Sw, Conrad, MT 59425<br>Contact: Laurie Hopper<br>Phone: 406-697-6290<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Monday March 23 - Friday March 28<br>Times: 7 am - 12pm<br>Special Instructions: Pick up meals at the north door of the kitchen located on the playground side of Meadowlark School]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Meadowlark School</value>
+          </Data>
+          <Data name="Address">
+            <value>17 3rd Ave Sw, Conrad, MT 59425</value>
+          </Data>
+          <Data name="Contact">
+            <value>Laurie Hopper</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-697-6290</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday March 23 - Friday March 28</value>
+          </Data>
+          <Data name="Times">
+            <value>7 am - 12pm</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Pick up meals at the north door of the kitchen located on the playground side of Meadowlark School</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Whitewater School District</name>
+        <address>117 1st Ave. W. Whitewater, MT 59544</address>
+        <description><![CDATA[Site: Whitewater School Delivery<br>Address: 117 1st Ave. W. Whitewater, MT 59544<br>Contact: Darin Cummings<br>Phone:  406  674-5417<br>Meals: Lunch Only<br>Delivery: Yes<br>Days available: Tuesday, March 24- Thursday, March 27<br>Times: Not Sure at the Moment<br>Special Instructions: Parents will let us know if they would like a lunch from the school]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Whitewater School Delivery</value>
+          </Data>
+          <Data name="Address">
+            <value>117 1st Ave. W. Whitewater, MT 59544</value>
+          </Data>
+          <Data name="Contact">
+            <value>Darin Cummings</value>
+          </Data>
+          <Data name="Phone">
+            <value> 406  674-5417</value>
+          </Data>
+          <Data name="Meals">
+            <value>Lunch Only</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Tuesday, March 24- Thursday, March 27</value>
+          </Data>
+          <Data name="Times">
+            <value>Not Sure at the Moment</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Parents will let us know if they would like a lunch from the school</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Elysian School District</name>
+        <address>6416 Elysian Road, Billings, MT 59101</address>
+        <description><![CDATA[Site: Elysian Elementary School<br>Address: 6416 Elysian Road, Billings, MT 59101<br>Contact: Laurie Hickethier, District Clerk, Leanne Lind Kitchen Manager<br>Phone: 406 656 4101<br>Meals: Lunch Only<br>Delivery: No<br>Days available: Monday, March 16-Friday, March 27<br>Times: 11:30-12:30<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Elysian Elementary School</value>
+          </Data>
+          <Data name="Address">
+            <value>6416 Elysian Road, Billings, MT 59101</value>
+          </Data>
+          <Data name="Contact">
+            <value>Laurie Hickethier, District Clerk, Leanne Lind Kitchen Manager</value>
+          </Data>
+          <Data name="Phone">
+            <value>406 656 4101</value>
+          </Data>
+          <Data name="Meals">
+            <value>Lunch Only</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday, March 16-Friday, March 27</value>
+          </Data>
+          <Data name="Times">
+            <value>11:30-12:30</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>District    17</name>
+        <address>8824 Pryor Road Billings, MT</address>
+        <description><![CDATA[Site: Delivery<br>Address: 8824 Pryor Road Billings, MT<br>Contact: Christy Jaeger<br>Phone: 406-598-7240<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: 3/17/2020 monday-friday<br>Times: 10:30 start time<br>Special Instructions: Student and participating children must be preasent]]></description>
+        <styleUrl>#icon-1722-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Delivery</value>
+          </Data>
+          <Data name="Address">
+            <value>8824 Pryor Road Billings, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Christy Jaeger</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-598-7240</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>3/17/2020 monday-friday</value>
+          </Data>
+          <Data name="Times">
+            <value>10:30 start time</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Student and participating children must be preasent</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Stevensville Public Schools </name>
+        <address>District 300 Park Ave, Stevensville, MT 59870</address>
+        <description><![CDATA[Site: Delivery, Burnt Fork Market, Airport Rd and Illinois Bench Rd Intersection <br>Address: District 300 Park Ave, Stevensville, MT 59870<br>Contact: Jenna Henning <br>Phone:  406  214-9942<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: March 17-20, March 23-27<br>Times: Early morning and 10am-12pm<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Delivery, Burnt Fork Market, Airport Rd and Illinois Bench Rd Intersection </value>
+          </Data>
+          <Data name="Address">
+            <value>District 300 Park Ave, Stevensville, MT 59870</value>
+          </Data>
+          <Data name="Contact">
+            <value>Jenna Henning </value>
+          </Data>
+          <Data name="Phone">
+            <value> 406  214-9942</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>March 17-20, March 23-27</value>
+          </Data>
+          <Data name="Times">
+            <value>Early morning and 10am-12pm</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Noxon Public Schools</name>
+        <address>300 Noxon ave. Noxon, MT</address>
+        <description><![CDATA[Site: School and Delivery<br>Address: 300 Noxon ave. Noxon, MT<br>Contact: Louise Chandler<br>Phone: 406.847.2442x203<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: Tuesday 3/17 until school resumes <br>Times: 11 am- 12.30 pm<br>Special Instructions: Parents must call to make arrangements for pick-up or delivery]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>School and Delivery</value>
+          </Data>
+          <Data name="Address">
+            <value>300 Noxon ave. Noxon, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Louise Chandler</value>
+          </Data>
+          <Data name="Phone">
+            <value>406.847.2442x203</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Tuesday 3/17 until school resumes </value>
+          </Data>
+          <Data name="Times">
+            <value>11 am- 12.30 pm</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Parents must call to make arrangements for pick-up or delivery</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Cascade County Juvenile Detention</name>
+        <address>1600 26th St. S. Great Falls, MT</address>
+        <description><![CDATA[Site: CCJDC<br>Address: 1600 26th St. S. Great Falls, MT<br>Contact: Ron Brinkman<br>Phone: 4064546930 or 4065901884<br>Meals: Breakfast Only, Both Breakfast and Lunch<br>Delivery: No<br>Days available: everyday of the week<br>Times: 24 hours a day<br>Special Instructions: call ahead if not in detention, will provide breakfast, lunch and dinner to those in need]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>CCJDC</value>
+          </Data>
+          <Data name="Address">
+            <value>1600 26th St. S. Great Falls, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Ron Brinkman</value>
+          </Data>
+          <Data name="Phone">
+            <value>4064546930 or 4065901884</value>
+          </Data>
+          <Data name="Meals">
+            <value>Breakfast Only, Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>everyday of the week</value>
+          </Data>
+          <Data name="Times">
+            <value>24 hours a day</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>call ahead if not in detention, will provide breakfast, lunch and dinner to those in need</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>St Regis School </name>
+        <address>90 Tiger Street St. Regis, MT</address>
+        <description><![CDATA[Site: St Regis School and delivery<br>Address: 90 Tiger Street St. Regis, MT<br>Contact: Dawn Palmer <br>Phone: 4066492311<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: Monday-Friday <br>Times: 10 am-12pm<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>St Regis School and delivery</value>
+          </Data>
+          <Data name="Address">
+            <value>90 Tiger Street St. Regis, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Dawn Palmer </value>
+          </Data>
+          <Data name="Phone">
+            <value>4066492311</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday-Friday </value>
+          </Data>
+          <Data name="Times">
+            <value>10 am-12pm</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Superior School District</name>
+        <address>1003 5th Ave. East Superior, MT</address>
+        <description><![CDATA[Site: Superior Elementary<br>Address: 1003 5th Ave. East Superior, MT<br>Contact: Chandra Plakke<br>Phone: 4068223600 x 230<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: 3/16-3/20 and 3/23-3/27<br>Times: 11am-1pm<br>Special Instructions: 1 person comes to the door at a time to receive meals for the whole family]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Superior Elementary</value>
+          </Data>
+          <Data name="Address">
+            <value>1003 5th Ave. East Superior, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Chandra Plakke</value>
+          </Data>
+          <Data name="Phone">
+            <value>4068223600 x 230</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>3/16-3/20 and 3/23-3/27</value>
+          </Data>
+          <Data name="Times">
+            <value>11am-1pm</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>1 person comes to the door at a time to receive meals for the whole family</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hamilton School District    3</name>
+        <address>208 Daly Ave Hamilton, MT</address>
+        <description><![CDATA[Site: Daly Elementary School<br>Address: 208 Daly Ave Hamilton, MT<br>Contact: Denise Burrows<br>Phone: 4063635038<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: Monday March 16-Friday March 27 so far<br>Times: 10am-2pm<br>Special Instructions: Food is available in the foyer of the New entry to Daly Elementary]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Daly Elementary School</value>
+          </Data>
+          <Data name="Address">
+            <value>208 Daly Ave Hamilton, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Denise Burrows</value>
+          </Data>
+          <Data name="Phone">
+            <value>4063635038</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday March 16-Friday March 27 so far</value>
+          </Data>
+          <Data name="Times">
+            <value>10am-2pm</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Food is available in the foyer of the New entry to Daly Elementary</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Target Range School Dist 23</name>
+        <address>4095 S Ave W Missoula, MT</address>
+        <description><![CDATA[Site: 4095 South Ave W, Missoula MT 59804<br>Address: 4095 S Ave W Missoula, MT<br>Contact: Neice Dahlseid<br>Phone: 4065291827<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes, No<br>Days available: Monday, March 23-<br>Times: 9:00-1:00<br>Special Instructions: Curbside delivery at rear entrance for students with transportation, buses to deliver to areas where transportation is not available]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>4095 South Ave W, Missoula MT 59804</value>
+          </Data>
+          <Data name="Address">
+            <value>4095 S Ave W Missoula, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Neice Dahlseid</value>
+          </Data>
+          <Data name="Phone">
+            <value>4065291827</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes, No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday, March 23-</value>
+          </Data>
+          <Data name="Times">
+            <value>9:00-1:00</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Curbside delivery at rear entrance for students with transportation, buses to deliver to areas where transportation is not available</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Wibaux School District</name>
+        <address>415 west nolan wibaux mt</address>
+        <description><![CDATA[Site: Elementary delivery<br>Address: 415 west nolan wibaux mt<br>Contact: Jan Huisman<br>Phone: 14067962518<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: March 23-27. And possibly more<br>Times: 11:00<br>Special Instructions: Text between Jan between 7 and 9 a.m.]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Elementary delivery</value>
+          </Data>
+          <Data name="Address">
+            <value>415 west nolan wibaux mt</value>
+          </Data>
+          <Data name="Contact">
+            <value>Jan Huisman</value>
+          </Data>
+          <Data name="Phone">
+            <value>14067962518</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>March 23-27. And possibly more</value>
+          </Data>
+          <Data name="Times">
+            <value>11:00</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Text between Jan between 7 and 9 a.m.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Circle Public Schools</name>
+        <address>1105 F Ave Circle, MT</address>
+        <description><![CDATA[Site: Circle High School<br>Address: 1105 F Ave Circle, MT<br>Contact: Della Van Horn<br>Phone: 406-485-3600<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Monday-Thursday <br>Times: 7:30-8:15 and 11:30-12:30<br>Special Instructions: Notify school if they want meals by 9.]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Circle High School</value>
+          </Data>
+          <Data name="Address">
+            <value>1105 F Ave Circle, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Della Van Horn</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-485-3600</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday-Thursday </value>
+          </Data>
+          <Data name="Times">
+            <value>7:30-8:15 and 11:30-12:30</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Notify school if they want meals by 9.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Savage school district</name>
+        <address>376 Mesa Street, Savage,  MT 59262</address>
+        <description><![CDATA[Site: Savage public school "delivery"<br>Address: 376 Mesa Street, Savage,  MT 59262<br>Contact: Darcy Kessel<br>Phone: 406 776 2317<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: March 23-26<br>Times: 11 am - 12 pm<br>Special Instructions: Students must be present]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value><![CDATA[Savage public school "delivery"]]></value>
+          </Data>
+          <Data name="Address">
+            <value>376 Mesa Street, Savage,  MT 59262</value>
+          </Data>
+          <Data name="Contact">
+            <value>Darcy Kessel</value>
+          </Data>
+          <Data name="Phone">
+            <value>406 776 2317</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>March 23-26</value>
+          </Data>
+          <Data name="Times">
+            <value>11 am - 12 pm</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Students must be present</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name> DeSmet school  </name>
+        <address>6355 Padre Lane Missoula MT 59846</address>
+        <description><![CDATA[Site: DeSmet school<br>Address: 6355 Padre Lane Missoula MT 59846<br>Contact: Anne Brown <br>Phone: 4062398390<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: March 23-March 28<br>Times: 12 noon<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>DeSmet school</value>
+          </Data>
+          <Data name="Address">
+            <value>6355 Padre Lane Missoula MT 59846</value>
+          </Data>
+          <Data name="Contact">
+            <value>Anne Brown </value>
+          </Data>
+          <Data name="Phone">
+            <value>4062398390</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>March 23-March 28</value>
+          </Data>
+          <Data name="Times">
+            <value>12 noon</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Fairfield school district 21</name>
+        <address>13 7th St. N. Fairfield Mt. 59436</address>
+        <description><![CDATA[Site: Fairfield Elementary<br>Address: 13 7th St. N. Fairfield Mt. 59436<br>Contact: Ramona O'Banion<br>Phone: 406 590 0943 or 406 467-2528<br>Meals: Lunch Only<br>Delivery: No<br>Days available: March 19-27th<br>Times: noon<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Fairfield Elementary</value>
+          </Data>
+          <Data name="Address">
+            <value>13 7th St. N. Fairfield Mt. 59436</value>
+          </Data>
+          <Data name="Contact">
+            <value><![CDATA[Ramona O'Banion]]></value>
+          </Data>
+          <Data name="Phone">
+            <value>406 590 0943 or 406 467-2528</value>
+          </Data>
+          <Data name="Meals">
+            <value>Lunch Only</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>March 19-27th</value>
+          </Data>
+          <Data name="Times">
+            <value>noon</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Corvallis School District</name>
+        <address>1149 Eastside highway Corvallis MT 59828</address>
+        <description><![CDATA[Site: Middle School cafeteria parking lot<br>Address: 1149 Eastside highway Corvallis MT 59828<br>Contact: Kathy Martin<br>Phone: 406-961-3201 ext 139<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Tuesday March 24 and Thursday March 26<br>Times: 7:30 am to 10:00 am<br>Special Instructions: student must be present]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Middle School cafeteria parking lot</value>
+          </Data>
+          <Data name="Address">
+            <value>1149 Eastside highway Corvallis MT 59828</value>
+          </Data>
+          <Data name="Contact">
+            <value>Kathy Martin</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-961-3201 ext 139</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Tuesday March 24 and Thursday March 26</value>
+          </Data>
+          <Data name="Times">
+            <value>7:30 am to 10:00 am</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>student must be present</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Winifred Public Schools</name>
+        <address>500 Main Street,Winifred, MT  59489</address>
+        <description><![CDATA[Site: Winifred School<br>Address: 500 Main Street,Winifred, MT  59489<br>Contact: Chris Dodson<br>Phone:  406   462-5420<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: 3/18 - 3/27<br>Times: Pick up time is at 10AM  <br>Special Instructions: Must email or call ahead to contact person  alternate phone number 462-5372 during off hours   by 7PM the day before requesting meals.]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Winifred School</value>
+          </Data>
+          <Data name="Address">
+            <value>500 Main Street,Winifred, MT  59489</value>
+          </Data>
+          <Data name="Contact">
+            <value>Chris Dodson</value>
+          </Data>
+          <Data name="Phone">
+            <value> 406   462-5420</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>3/18 - 3/27</value>
+          </Data>
+          <Data name="Times">
+            <value>Pick up time is at 10AM  </value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Must email or call ahead to contact person  alternate phone number 462-5372 during off hours   by 7PM the day before requesting meals.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Columbus School District</name>
+        <address>1036 East Pike Ave. Columbus, MT 59019</address>
+        <description><![CDATA[Site: Stillwater Youth Center<br>Address: 1036 East Pike Ave. Columbus, MT 59019<br>Contact: Sarah Peters<br>Phone: 406 321 2098<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: Wednesday March 18- Friday March 27<br>Times: 11:30am-1:00 pm<br>Special Instructions: email Sarah to get your kids signed up.  Stay in your car, we will bring food to you.]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Stillwater Youth Center</value>
+          </Data>
+          <Data name="Address">
+            <value>1036 East Pike Ave. Columbus, MT 59019</value>
+          </Data>
+          <Data name="Contact">
+            <value>Sarah Peters</value>
+          </Data>
+          <Data name="Phone">
+            <value>406 321 2098</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Wednesday March 18- Friday March 27</value>
+          </Data>
+          <Data name="Times">
+            <value>11:30am-1:00 pm</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>email Sarah to get your kids signed up.  Stay in your car, we will bring food to you.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Joliet Public schools </name>
+        <address>300 n park Joliet MT 59041</address>
+        <description><![CDATA[Site: Joliet Public School  <br>Address: 300 n park Joliet MT 59041<br>Contact: Brenda Lelevier<br>Phone: 4069623541<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Monday thru Friday<br>Times: 830 to 9am Breakfast pickup, 1130 to noon Lunch Pick up<br>Special Instructions: Parents must call ahead from 7:00am to 9:00 daily, student must be present if possible. Pick up in front of Middle school / elementary office]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Joliet Public School  </value>
+          </Data>
+          <Data name="Address">
+            <value>300 n park Joliet MT 59041</value>
+          </Data>
+          <Data name="Contact">
+            <value>Brenda Lelevier</value>
+          </Data>
+          <Data name="Phone">
+            <value>4069623541</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday thru Friday</value>
+          </Data>
+          <Data name="Times">
+            <value>830 to 9am Breakfast pickup, 1130 to noon Lunch Pick up</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Parents must call ahead from 7:00am to 9:00 daily, student must be present if possible. Pick up in front of Middle school / elementary office</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Glasgow School District </name>
+        <address>319 3rd St S, Glasgow, MT 59230</address>
+        <description><![CDATA[Site: Hoyt Park<br>Address: 319 3rd St S, Glasgow, MT 59230<br>Contact: Katie Potter <br>Phone: 4069422042<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Tuesday, March 17 - Friday, March 27<br>Times: 11 am - 12 pm<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Hoyt Park</value>
+          </Data>
+          <Data name="Address">
+            <value>319 3rd St S, Glasgow, MT 59230</value>
+          </Data>
+          <Data name="Contact">
+            <value>Katie Potter </value>
+          </Data>
+          <Data name="Phone">
+            <value>4069422042</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Tuesday, March 17 - Friday, March 27</value>
+          </Data>
+          <Data name="Times">
+            <value>11 am - 12 pm</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bozeman School District 7</name>
+        <address>811 W. Alderson, Bozeman, MT and 205 N 11th Ave, Bozeman, MT</address>
+        <description><![CDATA[Site: Irving Elementary and Bozeman High School<br>Address: 811 W. Alderson, Bozeman, MT and 205 N 11th Ave, Bozeman, MT<br>Contact: Brittany Selvig<br>Phone: 406-589-5855<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Monday, March 23-Friday, March 28<br>Times: 11-1<br>Special Instructions: Students must be present. Pull up to the curb, through the window let staff know how many meals.  Pop your trunk or give staff permission to open the back of your vehicle to place the meals inside. ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Irving Elementary and Bozeman High School</value>
+          </Data>
+          <Data name="Address">
+            <value>811 W. Alderson, Bozeman, MT and 205 N 11th Ave, Bozeman, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Brittany Selvig</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-589-5855</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday, March 23-Friday, March 28</value>
+          </Data>
+          <Data name="Times">
+            <value>11-1</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Students must be present. Pull up to the curb, through the window let staff know how many meals.  Pop your trunk or give staff permission to open the back of your vehicle to place the meals inside. </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Stanford School District</name>
+        <address>104 4th Ave South Stanford, MT</address>
+        <description><![CDATA[Site: Stanford Public School<br>Address: 104 4th Ave South Stanford, MT<br>Contact: Jessica Sloan<br>Phone: 406-566-2265<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: Tuesday March 17-indefinitly<br>Times: 11:00-11:30am<br>Special Instructions: Parent must call in by 9am for todays lunch and breakfast for the following morning.  Please use south grade school door for pickup.  ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Stanford Public School</value>
+          </Data>
+          <Data name="Address">
+            <value>104 4th Ave South Stanford, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Jessica Sloan</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-566-2265</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Tuesday March 17-indefinitly</value>
+          </Data>
+          <Data name="Times">
+            <value>11:00-11:30am</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Parent must call in by 9am for todays lunch and breakfast for the following morning.  Please use south grade school door for pickup.  </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Grass Range School District #27</name>
+        <address>310 EAST 2ND STREET Grass Range, MT</address>
+        <description><![CDATA[Site: Grass Range School<br>Address: 310 EAST 2ND STREET Grass Range, MT <br>Contact: Joe Gaylord<br>Phone: 14064282341<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Pick up on Monday for a week's worth of meals<br>Times: 9 AM-12 PM<br>Special Instructions: Call Joe Gaylord at 406-428-2341 for questions or to enroll in the program.]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Grass Range School</value>
+          </Data>
+          <Data name="Address">
+            <value>310 EAST 2ND STREET Grass Range, MT </value>
+          </Data>
+          <Data name="Contact">
+            <value>Joe Gaylord</value>
+          </Data>
+          <Data name="Phone">
+            <value>14064282341</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value><![CDATA[Pick up on Monday for a week's worth of meals]]></value>
+          </Data>
+          <Data name="Times">
+            <value>9 AM-12 PM</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Call Joe Gaylord at 406-428-2341 for questions or to enroll in the program.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>East Glacier Park Grade School</name>
+        <address>125 WASHINGTON ST East Glacier Park, MT 59434</address>
+        <description><![CDATA[Site: East Glacier Park Grade School<br>Address: 125 WASHINGTON ST East Glacier Park, MT 59434<br>Contact: Corey Pine<br>Phone: 406-226-5543<br>Meals: Lunch Only<br>Delivery: No<br>Days available: Tuesday, March 17- Friday, March 20 and Monday, March 23-Thursday, March 26<br>Times: 11:30-12:15<br>Special Instructions: Pick up at school parking lot entrance. Lunches distributed from black activity vehicle.]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>East Glacier Park Grade School</value>
+          </Data>
+          <Data name="Address">
+            <value>125 WASHINGTON ST East Glacier Park, MT 59434</value>
+          </Data>
+          <Data name="Contact">
+            <value>Corey Pine</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-226-5543</value>
+          </Data>
+          <Data name="Meals">
+            <value>Lunch Only</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Tuesday, March 17- Friday, March 20 and Monday, March 23-Thursday, March 26</value>
+          </Data>
+          <Data name="Times">
+            <value>11:30-12:15</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Pick up at school parking lot entrance. Lunches distributed from black activity vehicle.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Highwood School District</name>
+        <address>160 West Street South Highwood, MT 59450,</address>
+        <description><![CDATA[Site: Delivery<br>Address: 160 West Street South Highwood, MT 59450,<br>Contact: Jane Suberg<br>Phone: 4067332081<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: Monday, March 23rd  We will put together  a box for each family for the week<br>Times: noon<br>Special Instructions: Parents call ahead]]></description>
+        <styleUrl>#icon-1722-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Delivery</value>
+          </Data>
+          <Data name="Address">
+            <value>160 West Street South Highwood, MT 59450,</value>
+          </Data>
+          <Data name="Contact">
+            <value>Jane Suberg</value>
+          </Data>
+          <Data name="Phone">
+            <value>4067332081</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday, March 23rd  We will put together  a box for each family for the week</value>
+          </Data>
+          <Data name="Times">
+            <value>noon</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Parents call ahead</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hardin School District</name>
+        <address>701 North Terry Hardin, MT</address>
+        <description><![CDATA[Site: Hardin High School<br>Address: 701 North Terry Hardin, MT<br>Contact: Patrice O'Loughlin<br>Phone: 406-665-5412<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: March 18 Forward<br>Times: 11:30-1:00 <br>Special Instructions: Food is available for children age 0-18, children must be present to obtain food.]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Hardin High School</value>
+          </Data>
+          <Data name="Address">
+            <value>701 North Terry Hardin, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value><![CDATA[Patrice O'Loughlin]]></value>
+          </Data>
+          <Data name="Phone">
+            <value>406-665-5412</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>March 18 Forward</value>
+          </Data>
+          <Data name="Times">
+            <value>11:30-1:00 </value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Food is available for children age 0-18, children must be present to obtain food.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hardin School District</name>
+        <address>101 Makata Hardin, MT</address>
+        <description><![CDATA[Site: Crow Agency Public School<br>Address: 101 Makata Hardin, MT<br>Contact: Patrice O'Loughlin<br>Phone: 406-665-5412<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: March 18 Forward<br>Times: 11:30-1:00 <br>Special Instructions: Food is available for children age 0-18, children must be present to obtain food.]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Crow Agency Public School</value>
+          </Data>
+          <Data name="Address">
+            <value>101 Makata Hardin, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value><![CDATA[Patrice O'Loughlin]]></value>
+          </Data>
+          <Data name="Phone">
+            <value>406-665-5412</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>March 18 Forward</value>
+          </Data>
+          <Data name="Times">
+            <value>11:30-1:00 </value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Food is available for children age 0-18, children must be present to obtain food.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Melstone Public School </name>
+        <address>5 6th Avenue Melstone, MT</address>
+        <description><![CDATA[Site: Melstone Public School <br>Address: 5 6th Avenue Melstone, MT<br>Contact: Ramie Meredith <br>Phone: 406-358-2352<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: Monday - Thursday (3/17-5/21)<br>Times: After 8 am<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Melstone Public School </value>
+          </Data>
+          <Data name="Address">
+            <value>5 6th Avenue Melstone, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Ramie Meredith </value>
+          </Data>
+          <Data name="Phone">
+            <value>406-358-2352</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday - Thursday (3/17-5/21)</value>
+          </Data>
+          <Data name="Times">
+            <value>After 8 am</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Libby School District #4</name>
+        <address>150 Education Way Libby, MT</address>
+        <description><![CDATA[Site: Bus Delivery<br>Address: 150 Education Way Libby, MT<br>Contact: Ellen Mills<br>Phone: 406-293-8811<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: March 16 -20, 2020<br>Times: 4 hr later than regular bus route pick-up time<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1722-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Bus Delivery</value>
+          </Data>
+          <Data name="Address">
+            <value>150 Education Way Libby, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Ellen Mills</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-293-8811</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>March 16 -20, 2020</value>
+          </Data>
+          <Data name="Times">
+            <value>4 hr later than regular bus route pick-up time</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Libby School District #4</name>
+        <address>150 Education Way Libby, MT</address>
+        <description><![CDATA[Site: Libby Middle/High School<br>Address: 150 Education Way Libby, MT<br>Contact: Ellen Mills<br>Phone: 406-293-8811<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: March 16-20, 2020<br>Times: 1:00 to 2:00 p.m<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Libby Middle/High School</value>
+          </Data>
+          <Data name="Address">
+            <value>150 Education Way Libby, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Ellen Mills</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-293-8811</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>March 16-20, 2020</value>
+          </Data>
+          <Data name="Times">
+            <value>1:00 to 2:00 p.m</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Libby School District #4</name>
+        <address>101 Ski Rd Libby, MT</address>
+        <description><![CDATA[Site: Libby Elementary School <br>Address: 101 Ski Rd Libby, MT<br>Contact: Ellen Mills<br>Phone: 406-293-8811<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: March 16-20, 2020<br>Times: 1:00 to 2:00 p.m.<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Libby Elementary School </value>
+          </Data>
+          <Data name="Address">
+            <value>101 Ski Rd Libby, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Ellen Mills</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-293-8811</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>March 16-20, 2020</value>
+          </Data>
+          <Data name="Times">
+            <value>1:00 to 2:00 p.m.</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Libby School District #4</name>
+        <address>724 Louisiana Avenue Libby, MT</address>
+        <description><![CDATA[Site: Central School <br>Address: 724 Louisiana Avenue Libby, MT<br>Contact: Ellen Mills<br>Phone: 406-293-8811<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: March 16-20, 2020<br>Times: 1:00 to 2:00 p.m,.<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Central School </value>
+          </Data>
+          <Data name="Address">
+            <value>724 Louisiana Avenue Libby, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Ellen Mills</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-293-8811</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>March 16-20, 2020</value>
+          </Data>
+          <Data name="Times">
+            <value>1:00 to 2:00 p.m,.</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Big Sandy</name>
+        <address>342 Vernon Ave. Big Sandy, MT</address>
+        <description><![CDATA[Site: F.E.Miley Elementary <br>Address: 342 Vernon Ave. Big Sandy, MT<br>Contact: Kelly Owen<br>Phone: 406-390-4554<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Monday - Thursday<br>Times: 9 a.m.-11 a.m.<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>F.E.Miley Elementary </value>
+          </Data>
+          <Data name="Address">
+            <value>342 Vernon Ave. Big Sandy, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Kelly Owen</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-390-4554</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday - Thursday</value>
+          </Data>
+          <Data name="Times">
+            <value>9 a.m.-11 a.m.</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Big Sandy</name>
+        <address>398 1st Ave. N Big Sandy, MT</address>
+        <description><![CDATA[Site: Big Sandy High School<br>Address: 398 1st Ave. N Big Sandy, MT<br>Contact: Kelly Owen<br>Phone: 406-390-4554<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Monday - Thursday<br>Times: 9 a.m.-11 a.m.<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Big Sandy High School</value>
+          </Data>
+          <Data name="Address">
+            <value>398 1st Ave. N Big Sandy, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Kelly Owen</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-390-4554</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday - Thursday</value>
+          </Data>
+          <Data name="Times">
+            <value>9 a.m.-11 a.m.</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bigfork School Dist 38</name>
+        <address>600 COMMERCE STREET   Bigfork, MT 59911</address>
+        <description><![CDATA[Site: Delivered on our bus routes and available to pick up here at the Elementary Building.<br>Address: 600 COMMERCE STREET   Bigfork, MT 59911<br>Contact: Roger Vanlandingham<br>Phone: 4068377400<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: Tuesdays - Thursdays - Fridays<br>Times: Delivery on regular afternoon bus route stops<br>Special Instructions: Parent must call ahead to pickup]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Delivered on our bus routes and available to pick up here at the Elementary Building.</value>
+          </Data>
+          <Data name="Address">
+            <value>600 COMMERCE STREET   Bigfork, MT 59911</value>
+          </Data>
+          <Data name="Contact">
+            <value>Roger Vanlandingham</value>
+          </Data>
+          <Data name="Phone">
+            <value>4068377400</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Tuesdays - Thursdays - Fridays</value>
+          </Data>
+          <Data name="Times">
+            <value>Delivery on regular afternoon bus route stops</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Parent must call ahead to pickup</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Glendive DCHS</name>
+        <address>900 N Merrill Glendive, MT</address>
+        <description><![CDATA[Site: DCHS<br>Address: 900 N Merrill Glendive, MT<br>Contact: Anne Sadorf<br>Phone: 4063775394<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Mondays thru Fridays;  March 17 until no longer necesssry<br>Times: 11am to 1pm<br>Special Instructions: Practice social distancing; do not congregate while waiting for your meal. ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>DCHS</value>
+          </Data>
+          <Data name="Address">
+            <value>900 N Merrill Glendive, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Anne Sadorf</value>
+          </Data>
+          <Data name="Phone">
+            <value>4063775394</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Mondays thru Fridays;  March 17 until no longer necesssry</value>
+          </Data>
+          <Data name="Times">
+            <value>11am to 1pm</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Practice social distancing; do not congregate while waiting for your meal. </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Glendive Jefferson</name>
+        <address>800 Jefferson School Rd Glendive, MT</address>
+        <description><![CDATA[Site: Jefferson<br>Address: 800 Jefferson School Rd Glendive, MT<br>Contact: Anne Sadorf<br>Phone: 4063775394<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Mondays thru Fridays;  March 17 until no longer necesssry<br>Times: 11am to 1pm<br>Special Instructions: Practice social distancing; do not congregate while waiting for your meal. ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Jefferson</value>
+          </Data>
+          <Data name="Address">
+            <value>800 Jefferson School Rd Glendive, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Anne Sadorf</value>
+          </Data>
+          <Data name="Phone">
+            <value>4063775394</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Mondays thru Fridays;  March 17 until no longer necesssry</value>
+          </Data>
+          <Data name="Times">
+            <value>11am to 1pm</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Practice social distancing; do not congregate while waiting for your meal. </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Glendive Lincoln</name>
+        <address>203 S Nowlan Glendive, MT</address>
+        <description><![CDATA[Site: Lincoln<br>Address: 203 S Nowlan Glendive, MT<br>Contact: Anne Sadorf<br>Phone: 4063775394<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Mondays thru Fridays;  March 17 until no longer necesssry<br>Times: 11am to 1pm<br>Special Instructions: Practice social distancing; do not congregate while waiting for your meal. ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Lincoln</value>
+          </Data>
+          <Data name="Address">
+            <value>203 S Nowlan Glendive, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Anne Sadorf</value>
+          </Data>
+          <Data name="Phone">
+            <value>4063775394</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Mondays thru Fridays;  March 17 until no longer necesssry</value>
+          </Data>
+          <Data name="Times">
+            <value>11am to 1pm</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Practice social distancing; do not congregate while waiting for your meal. </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Glendive Washington</name>
+        <address>505N Meade Glendive, MT</address>
+        <description><![CDATA[Site: Washington<br>Address: 505N Meade Glendive, MT<br>Contact: Anne Sadorf<br>Phone: 4063775394<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Mondays thru Fridays;  March 17 until no longer necesssry<br>Times: 11am to 1pm<br>Special Instructions: Practice social distancing; do not congregate while waiting for your meal. ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Washington</value>
+          </Data>
+          <Data name="Address">
+            <value>505N Meade Glendive, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Anne Sadorf</value>
+          </Data>
+          <Data name="Phone">
+            <value>4063775394</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Mondays thru Fridays;  March 17 until no longer necesssry</value>
+          </Data>
+          <Data name="Times">
+            <value>11am to 1pm</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Practice social distancing; do not congregate while waiting for your meal. </value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>FRONTIER ELEMENTARY DISTRICT#3</name>
+        <address>213 6th Ave S, wolf point, MT 59201</address>
+        <description><![CDATA[Site: Wolf point high school<br>Address: 213 6th Ave S, wolf point, MT 59201<br>Contact: Christine Eggar<br>Phone: 406-653-2501<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Contact Christine Eggar<br>Times: Contact Christine Eggar<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Wolf point high school</value>
+          </Data>
+          <Data name="Address">
+            <value>213 6th Ave S, wolf point, MT 59201</value>
+          </Data>
+          <Data name="Contact">
+            <value>Christine Eggar</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-653-2501</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Contact Christine Eggar</value>
+          </Data>
+          <Data name="Times">
+            <value>Contact Christine Eggar</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Chester Joplin Inverness School District</name>
+        <address>511 Main Street, Chester Mt, 59522</address>
+        <description><![CDATA[Site: CJI High School <br>Address: 511 Main Street, Chester Mt, 59522<br>Contact: Tina Neer<br>Phone: 406-759-5108<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Monday - Friday<br>Times: 8:00-8:30 and 11:30-12:30<br>Special Instructions: The school will be serving breakfast and lunch, Monday - Friday,  at no charge to all persons under the age of 18 years old during the school closure. If you want a meal(s), please call (406) 759-5108 ext. 212, leave your name, what meal(s) (lunch and/or breakfast) you want, and which days you want them. Or, you can visit the schools website, www.cji.k12.mt.us, click on the GRAB & GO MEAL ORDER FORM link and place your order. Meals will be available for pickup at the High School Office, breakfast from 8:00 AM - 8:30 AM, and lunch from 11:30 AM - 12:30 PM.]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>CJI High School </value>
+          </Data>
+          <Data name="Address">
+            <value>511 Main Street, Chester Mt, 59522</value>
+          </Data>
+          <Data name="Contact">
+            <value>Tina Neer</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-759-5108</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday - Friday</value>
+          </Data>
+          <Data name="Times">
+            <value>8:00-8:30 and 11:30-12:30</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value><![CDATA[The school will be serving breakfast and lunch, Monday - Friday,  at no charge to all persons under the age of 18 years old during the school closure. If you want a meal(s), please call (406) 759-5108 ext. 212, leave your name, what meal(s) (lunch and/or breakfast) you want, and which days you want them. Or, you can visit the schools website, www.cji.k12.mt.us, click on the GRAB & GO MEAL ORDER FORM link and place your order. Meals will be available for pickup at the High School Office, breakfast from 8:00 AM - 8:30 AM, and lunch from 11:30 AM - 12:30 PM.]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>West Yellowstone </name>
+        <address>411 N Geyser St, West Yellowstone, MT 59758</address>
+        <description><![CDATA[Site: West Yellowstone <br>Address: 411 N Geyser St, West Yellowstone, MT 59758<br>Contact: Karin Mathews805-<br>Phone: 406-646-7617<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: March 17-19 then after spring break if no school<br>Times: 11:30 AM<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>West Yellowstone </value>
+          </Data>
+          <Data name="Address">
+            <value>411 N Geyser St, West Yellowstone, MT 59758</value>
+          </Data>
+          <Data name="Contact">
+            <value>Karin Mathews805-</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-646-7617</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>March 17-19 then after spring break if no school</value>
+          </Data>
+          <Data name="Times">
+            <value>11:30 AM</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Montana Meal Distribution Site During COVID-19 Closure (Responses) - Sheet6 (2).csv</name>
+      <Placemark>
+        <name>Shields Valley Schools</name>
+        <address>308 South Hannaford Street Wilsall, Mt 59086</address>
+        <description><![CDATA[Site: Yet to be determined<br>Address: 308 South Hannaford Street Wilsall, Mt 59086<br>Contact: Billi Taylor<br>Phone: 406-570-8778 or 406 578-2535 school<br>Meals: Lunch Only<br>Delivery: No<br>Days available: yet to be determined<br>Times: yet to be determined<br>Special Instructions: yet to be determined<br>unnamed (1): yet to be determined]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Yet to be determined</value>
+          </Data>
+          <Data name="Address">
+            <value>308 South Hannaford Street Wilsall, Mt 59086</value>
+          </Data>
+          <Data name="Contact">
+            <value>Billi Taylor</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-570-8778 or 406 578-2535 school</value>
+          </Data>
+          <Data name="Meals">
+            <value>Lunch Only</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>yet to be determined</value>
+          </Data>
+          <Data name="Times">
+            <value>yet to be determined</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>yet to be determined</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>yet to be determined</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Montana Meal Distribution Site During COVID-19 Closure (Responses) - Sheet6 (3).csv</name>
+      <Placemark>
+        <name>Bonner School District 14</name>
+        <address>9045 Hwy 200 E, Bonner MT 59823</address>
+        <description><![CDATA[Site: Bonner Elementary and delivery<br>Address: 9045 Hwy 200 E, Bonner MT 59823<br>Contact: Carrie Ruff or Dorene Turk<br>Phone: 14062586151<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: Mon 3/23-Fri 3/28/20<br>Times: 10 am-11am M, T, Th, F and 9-11am Weds.<br>Special Instructions: parent call ahead<br>unnamed (1): parent call ahead]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Bonner Elementary and delivery</value>
+          </Data>
+          <Data name="Address">
+            <value>9045 Hwy 200 E, Bonner MT 59823</value>
+          </Data>
+          <Data name="Contact">
+            <value>Carrie Ruff or Dorene Turk</value>
+          </Data>
+          <Data name="Phone">
+            <value>1.4062586151E10</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Mon 3/23-Fri 3/28/20</value>
+          </Data>
+          <Data name="Times">
+            <value>10 am-11am M, T, Th, F and 9-11am Weds.</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>parent call ahead</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>parent call ahead</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Montana Meal Distribution Site During COVID-19 Closure (Responses) - Sheet6 (4).csv</name>
+      <Placemark>
+        <name>Rapelje School District</name>
+        <address>714 Main St Rapelje, MT</address>
+        <description><![CDATA[Site: Delivery<br>Address: 714 Main St Rapelje, MT<br>Contact: Carol Austin<br>Phone: 4066632215<br>Meals: Lunch Only<br>Delivery: Yes<br>Days available: Packing lunches for a week <br>Times: 10 am<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1722-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Delivery</value>
+          </Data>
+          <Data name="Address">
+            <value>714 Main St Rapelje, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Carol Austin</value>
+          </Data>
+          <Data name="Phone">
+            <value>4.066632215E9</value>
+          </Data>
+          <Data name="Meals">
+            <value>Lunch Only</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Packing lunches for a week </value>
+          </Data>
+          <Data name="Times">
+            <value>10 am</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Montana Meal Distribution Site During COVID-19 Closure (Responses) - additions.csv</name>
+      <Placemark>
+        <name>Havre Public Schools</name>
+        <address>801 4th St., Havre, MT 59501</address>
+        <description><![CDATA[Site: Lincoln McKinley<br>Address: 801 4th St., Havre, MT 59501<br>Contact: Shanna Flores<br>Phone: 4063905250<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Monday, March 16- Friday, April 10<br>Times: 9-11 am<br>Special Instructions: Pick Up on East Side of Building enter parking lot from the north and exit after picking up meals.]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Lincoln McKinley</value>
+          </Data>
+          <Data name="Address">
+            <value>801 4th St., Havre, MT 59501</value>
+          </Data>
+          <Data name="Contact">
+            <value>Shanna Flores</value>
+          </Data>
+          <Data name="Phone">
+            <value>4063905250</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday, March 16- Friday, April 10</value>
+          </Data>
+          <Data name="Times">
+            <value>9-11 am</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Pick Up on East Side of Building enter parking lot from the north and exit after picking up meals.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Havre Public Schools</name>
+        <address>1207 Washington Ave., Havre, MT 59501</address>
+        <description><![CDATA[Site: Highland Park Elementary<br>Address: 1207 Washington Ave., Havre, MT 59501<br>Contact: Shanna Flores<br>Phone: 4063905250<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Monday, March 16-Friday, April 10<br>Times: 9-11 AM<br>Special Instructions: Pick up on the Northwest Cafeteria Doors]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Highland Park Elementary</value>
+          </Data>
+          <Data name="Address">
+            <value>1207 Washington Ave., Havre, MT 59501</value>
+          </Data>
+          <Data name="Contact">
+            <value>Shanna Flores</value>
+          </Data>
+          <Data name="Phone">
+            <value>4063905250</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday, March 16-Friday, April 10</value>
+          </Data>
+          <Data name="Times">
+            <value>9-11 AM</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Pick up on the Northwest Cafeteria Doors</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Philipsburg School District 1</name>
+        <address>407 Schnepel Philipsburg, MT</address>
+        <description><![CDATA[Site: Granite High School<br>Address: 407 Schnepel Philipsburg, MT<br>Contact: Tomme Carlyon<br>Phone: 406-859-3232 ext 231<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Monday March 23, 2020 through Friday March 27, 2020<br>Times: 9-11 am<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Granite High School</value>
+          </Data>
+          <Data name="Address">
+            <value>407 Schnepel Philipsburg, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Tomme Carlyon</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-859-3232 ext 231</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday March 23, 2020 through Friday March 27, 2020</value>
+          </Data>
+          <Data name="Times">
+            <value>9-11 am</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Lewistown Public Schools</name>
+        <address>415 East Boulevard Lewistown, MT</address>
+        <description><![CDATA[Site: Garfield Elementary<br>Address: 415 East Boulevard Lewistown, MT<br>Contact: Amie Friesen<br>Phone: 4063660501<br>Meals: Lunch Only<br>Delivery: Yes<br>Days available: From now until schools are opened back up on scheduled school days<br>Times: 11 to 11:20<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Garfield Elementary</value>
+          </Data>
+          <Data name="Address">
+            <value>415 East Boulevard Lewistown, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Amie Friesen</value>
+          </Data>
+          <Data name="Phone">
+            <value>4063660501</value>
+          </Data>
+          <Data name="Meals">
+            <value>Lunch Only</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>From now until schools are opened back up on scheduled school days</value>
+          </Data>
+          <Data name="Times">
+            <value>11 to 11:20</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Lewistown Public Schools</name>
+        <address>914 West Main Street Lewistown, MT</address>
+        <description><![CDATA[Site: Lewistown Junior High<br>Address: 914 West Main Street Lewistown, MT<br>Contact: Amie Friesen<br>Phone: 4063660501<br>Meals: Lunch Only<br>Delivery: Yes<br>Days available: From now until schools are opened back up on scheduled school days<br>Times: 11:30 to 11:50<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Lewistown Junior High</value>
+          </Data>
+          <Data name="Address">
+            <value>914 West Main Street Lewistown, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Amie Friesen</value>
+          </Data>
+          <Data name="Phone">
+            <value>4063660501</value>
+          </Data>
+          <Data name="Meals">
+            <value>Lunch Only</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>From now until schools are opened back up on scheduled school days</value>
+          </Data>
+          <Data name="Times">
+            <value>11:30 to 11:50</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Lewistown Public Schools</name>
+        <address>1001 Casino Creek Drive Lewistown, MT</address>
+        <description><![CDATA[Site: Fergus High School<br>Address: 1001 Casino Creek Drive Lewistown, MT<br>Contact: Amie Friesen<br>Phone: 4063660501<br>Meals: Lunch Only<br>Delivery: Yes<br>Days available: From now until schools are opened back up on scheduled school days<br>Times: 12:00 to12:20<br>Special Instructions: ]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Fergus High School</value>
+          </Data>
+          <Data name="Address">
+            <value>1001 Casino Creek Drive Lewistown, MT</value>
+          </Data>
+          <Data name="Contact">
+            <value>Amie Friesen</value>
+          </Data>
+          <Data name="Phone">
+            <value>4063660501</value>
+          </Data>
+          <Data name="Meals">
+            <value>Lunch Only</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>From now until schools are opened back up on scheduled school days</value>
+          </Data>
+          <Data name="Times">
+            <value>12:00 to12:20</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Montana Meal Distribution Site During COVID-19 Closure (Responses) - additions (1).csv</name>
+      <Placemark>
+        <name>Dodson Public Schools</name>
+        <address>124 2nd Ave W Dodson, MT 59524</address>
+        <description><![CDATA[Site: Delivery<br>Address: 124 2nd Ave W Dodson, MT 59524<br>Contact: Leann Pankratz<br>Phone: 406-654-1210 406-390-0259<br>Meals: Both Breakfast and Lunch<br>Delivery: Yes<br>Days available: Mon-Thur March 19-June 31 2020<br>Times: 11:30 a.m.-1:30 p.m.<br>Special Instructions: Deliveries in town are curb stop, deliveries out of town are bus stop. Meals are to be picked up by a household adult.]]></description>
+        <styleUrl>#icon-1722-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>Delivery</value>
+          </Data>
+          <Data name="Address">
+            <value>124 2nd Ave W Dodson, MT 59524</value>
+          </Data>
+          <Data name="Contact">
+            <value>Leann Pankratz</value>
+          </Data>
+          <Data name="Phone">
+            <value>406-654-1210 406-390-0259</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>Yes</value>
+          </Data>
+          <Data name="Days available">
+            <value>Mon-Thur March 19-June 31 2020</value>
+          </Data>
+          <Data name="Times">
+            <value>11:30 a.m.-1:30 p.m.</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>Deliveries in town are curb stop, deliveries out of town are bus stop. Meals are to be picked up by a household adult.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Montana Meal Distribution Site During COVID-19 Closure (Responses) - additions (2).csv</name>
+      <Placemark>
+        <name>Hobson public schools</name>
+        <address>108 6th st e, hobson,mt 59452</address>
+        <description><![CDATA[Site: School foyer <br>Address: 108 6th st e, hobson,mt 59452<br>Contact: Mr. Anderson<br>Phone: 4064235483<br>Meals: Both Breakfast and Lunch<br>Delivery: No<br>Days available: Monday-friday<br>Times: 11-12<br>Special Instructions: 11-12]]></description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="Site">
+            <value>School foyer </value>
+          </Data>
+          <Data name="Address">
+            <value>108 6th st e, hobson,mt 59452</value>
+          </Data>
+          <Data name="Contact">
+            <value>Mr. Anderson</value>
+          </Data>
+          <Data name="Phone">
+            <value>4.064235483E9</value>
+          </Data>
+          <Data name="Meals">
+            <value>Both Breakfast and Lunch</value>
+          </Data>
+          <Data name="Delivery">
+            <value>No</value>
+          </Data>
+          <Data name="Days available">
+            <value>Monday-friday</value>
+          </Data>
+          <Data name="Times">
+            <value>11-12</value>
+          </Data>
+          <Data name="Special Instructions">
+            <value>11-12</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
