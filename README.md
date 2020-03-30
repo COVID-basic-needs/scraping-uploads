@@ -10,10 +10,9 @@ This is a Python webscraper to help https://www.nokidhungry.org keep resources u
 How To Use This
 ---------------
 Python Version 3.7.6
-
-1. Run `pip install -r requirements.txt` to install dependencies
-2. Run `python app.py`
-3. Select output format between .csv, .json, xlsx
+1. Add  `GOOGLE_KEY`, `ALGOLIA_KEY` and `ALGOLIA_APP_ID` to .env in root folder
+2. Run `pip install -r requirements.txt` to install dependencies
+3. Run `python app.py [-e EXT]`
 
 Testing
 -------
