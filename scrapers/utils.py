@@ -4,7 +4,7 @@ import dateparser
 import calendar
 import requests
 import pandas as pd
-from dateutil import relativedelta
+from dateutil.relativedelta import relativedelta
 from algoliasearch.search_client import SearchClient
 from dotenv import load_dotenv
 
