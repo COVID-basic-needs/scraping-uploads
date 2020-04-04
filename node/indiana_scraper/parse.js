@@ -23,7 +23,7 @@ const parseCsvToJson = (path) => {
             days = site_data[i].Days.split('').join(', ').replace('R', 'Th');
           }
 
-          const adderess = `${site_data[i].Street}, ${site_data[i].City}, Indiana ${String(site_data[i]['Zip Code'])}`;
+          const adderess = `${site_data[i].Street}, ${site_data[i].City}, Indiana`;
           const item = {
             sponsorName: site_data[i]['Sponsor Name'],
             siteName: site_data[i]['Site Name'],
