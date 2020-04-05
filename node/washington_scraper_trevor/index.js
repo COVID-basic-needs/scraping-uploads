@@ -50,7 +50,7 @@ async function scrape() {
 
             const address = await page.evaluate(() => {
                 const locations = Array.from(document.querySelectorAll('td.column-address'))
-                return locations.map((a) => a.textContent);
+                return locations.map((a) => a.textContent.replace(/['"]+/g, ''));
             })
 
             const hours = await page.evaluate(() => {
