@@ -5,9 +5,7 @@ import urllib.request
 import time
 from bs4 import BeautifulSoup
 import os.path, time
-import datetime
 import csv
-import json
 from correctresults import fix_inconsistencies
 
 url = 'https://www.uwkc.org/free-meals-during-school-closures/'
