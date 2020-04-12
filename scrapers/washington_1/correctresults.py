@@ -9,7 +9,7 @@ def fix_inconsistencies(results):
     for entry in results:
         if entry['siteName'] == 'Tenino Food Bank Meals for All':
             entry['siteTime'] = '9:00AM-11:00AM on Tu and 4:00PM-6:00PM on Th'
-            entry['daysofOperation'] = 'M, Th'
+            entry['daysofOperation'] = 'Tu, Th'
         if entry['siteName'] == 'Clear Lake Covenant Church':
             entry['siteTime'] = 'M-F 11:00AM-11:30AM'
         if entry['siteName'] == 'College Place High School (CPHS)':
